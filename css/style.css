@@ -59,7 +59,7 @@ ul li.active a{
 
 .title h1{
     color: white;
-    font-size: 70px;
+    font-size: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -104,7 +104,7 @@ header{
 
 .link{
     position: absolute;
-    top: 65%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
